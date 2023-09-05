@@ -95,8 +95,13 @@ SEO Considerations
 - How Craigslist optimizes for search engines
 - URL structures and categorizations
 
-Over the years, Craigslist has transcended its status as a mere online classifieds platform to become a significant part of our digital culture. Its enduring simplicity, combined with an unwavering commitment to user value, has cemented its place as a trusted resource in a constantly evolving digital landscape. 
+Over the years, Craigslist  has transcended its status as a mere online classifieds platform to become a significant part of our digital culture. Its enduring simplicity, combined with an unwavering commitment to user value, has cemented its place as a trusted resource in a constantly evolving digital landscape. 
 
 As we've journeyed through the facets of Craigslist, from its inception to its current prominence, one thing is evident: while technology and platforms may evolve, the genuine human desire for connection, commerce, and community remains constant.
 
 Craigslist, with its vast offerings and unique ethos, serves as a testament to this enduring truth. As we move forward in the digital age, Craigslist stands as a beacon, reminding us of the power of simplicity and the importance of community in a world of fleeting digital trends.
+
+References:
+--------------
+- `Kemdikbud International <https://www.kemdikbud.co.id/int/>`_ 
+- `Craigslist USA Documentation <https://craigslistusa.readthedocs.io/>`_
